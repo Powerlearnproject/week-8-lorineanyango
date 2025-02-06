@@ -1,0 +1,14 @@
+# Part 1: SDG Selection and Problem Definition
+
+**SDG selection: SDG4: Quality Education** 
+**Problem statement**
+Problem 1 - Enrollment and Access:
+In many rural areas, the enrollment rate for secondary education is
+ significantly lower than in urban areas. This disparity can be attributed to 
+ several factors such as financial constraints, lack of transportation, inadequate infrastructure, 
+ and insufficient leadership in addressing education challenges. 
+
+
+ The ERD for the SDG 4 is available on this site,,https://lucid.app/lucidchart/dcdf04bc-55bf-4da6-852d-2340c6df5ac1/view
+
+ 
